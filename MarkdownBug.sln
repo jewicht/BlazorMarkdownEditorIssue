@@ -3,24 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkdownBug", "MarkdownBug/MarkdownBug.csproj", "{C291F51B-2A9B-457C-A4DD-62727A4257F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkdownBug", "MarkdownBug\MarkdownBug.csproj", "{C291F51B-2A9B-457C-A4DD-62727A4257F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Debug-Prod|Any CPU = Debug-Prod|Any CPU
 		Release|Any CPU = Release|Any CPU
-		Release-Prod|Any CPU = Release-Prod|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Debug-Prod|Any CPU.ActiveCfg = Debug-Prod|Any CPU
-		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Debug-Prod|Any CPU.Build.0 = Debug-Prod|Any CPU
 		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Release-Prod|Any CPU.ActiveCfg = Release-Prod|Any CPU
-		{C291F51B-2A9B-457C-A4DD-62727A4257F5}.Release-Prod|Any CPU.Build.0 = Release-Prod|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
